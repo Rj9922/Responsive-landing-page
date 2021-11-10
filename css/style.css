@@ -153,7 +153,7 @@ img {
 }
 
 .plan__duration{
-  font-size: var(--normal-font-size);
+  font-size: var(--small-font-size);
 }
 
 .plan__ratting {
