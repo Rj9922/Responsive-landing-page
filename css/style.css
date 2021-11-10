@@ -152,6 +152,10 @@ img {
   line-height: 25px;
 }
 
+.plan__duration{
+  font-size: var(--normal-font-size);
+}
+
 .plan__ratting {
   position: relative;
   width: 100%;
